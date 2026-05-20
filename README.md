@@ -1,4 +1,4 @@
-Markdown# Monitoramento de Baterias ZTE ZXESM R311
+Monitoramento de Baterias ZTE ZXESM R311
 
 Repositório centralizado para o monitoramento de infraestrutura de baterias **ZTE ZXESM R311**. Este projeto contém as definições de templates para o Zabbix e os dashboards correspondentes para o Grafana.
 

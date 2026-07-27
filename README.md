@@ -31,7 +31,7 @@ Repositório centralizado para o monitoramento de infraestrutura de baterias **Z
 
 ### Para Grafana (Visualização)
 1. Importe o arquivo JSON localizado em `grafana/`.
-2. Certifique-se de que a variável `$HOSTNAME` esteja configurada corretamente.
+2. Certifique-se de que a variável `$HOSTNAME` esteja igual ao campo hostname do zabbix.
 
 ## 📝 Documentação Detalhada
 * [Documentação do Dashboard (Grafana)](grafana/README.md)
